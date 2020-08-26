@@ -1,0 +1,297 @@
+
+
+
+
+
+
+
+
+.navA li
+{
+    
+    display:inline;
+    padding-left: 37px ;
+    float: right;
+    border-right-style: solid;
+    border-right-width: thin;
+    border-right-color: white;
+    padding-right: 20px;
+    text-decoration: none;
+    margin-left: ;
+}
+.listnav
+{
+ padding-left: 205px;   
+}
+.navA ul li
+{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    height: 28px;
+    
+}
+.navA a{
+    color: white;
+}
+.navA a:hover{
+    color: white;
+}
+.navA
+{
+    float: top;
+    top: 5px;
+    height: 12px;
+    position:  ;
+    top: 10px;
+    padding-bottom: 17px;
+    padding-top: 10px;
+    margin-left: ;
+    margin-right:  ;
+    padding-left: ;
+    padding-right: ;
+    width: 100%;
+}
+
+
+
+
+
+
+.navB li
+{
+    margin-right: ;
+    position: ;
+    top: ;
+    display:inline;
+    padding-left:15px ;
+    float: right;
+    padding-right: ;
+    border-right-style: ;
+    border-right-width: ;
+    border-right-color: ;
+    margin-right: 51px;
+    text-decoration: none;
+    padding-top: ;
+    padding-bottom: ;
+
+
+}
+
+.navB button
+{
+    height: ;
+    margin-top: ;
+    margin-bottom: ;
+    border-radius: 1pt;
+}
+.navB li:hover
+{
+    background-color:  ;
+    color:  ;
+    background: ;
+    border-style: none;
+}
+.navB button:hover
+{
+    background-color: #293352;
+    color: lightgray;
+}
+.navB ul li
+{
+    margin-bottom: 5px;
+    margin-left: -20px ;
+    padding-bottom: 0px;
+    padding-top: 15px;
+    height: 28px;
+    
+}
+.navB a{
+    color: white;
+}
+.navB a:hover{
+    color: white;
+    background: ;
+}
+.navB
+{
+    float: top;
+    top: 5px;
+    height: 12px;
+    position:  ;
+    top: 10px;
+    padding-bottom: 17px;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+.dropdown1 {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown {
+  display: none;
+  position: absolute;
+  background-color: #293352;
+  min-width: 160px;
+  box-shadow: ;
+  z-index: 5;
+}
+
+/* Links inside the dropdown */
+.dropdown a {
+  color: white;
+  padding: ;
+  text-decoration: none;
+  display: block;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+  border-bottom-color: #aebed9;
+  border-top-style: solid;
+  border-top-width: thin;
+  border-top-color: grey;
+  padding-left: 8px;
+  padding-right: 20px;
+  border-bottom-left-radius: ;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown a:hover {background-color: #293352;
+text-decoration: none;}
+
+/* Show the dropdown menu on hover */
+.dropdown1:hover .dropdown {
+  display: block;
+  position: absolute;
+  background-color: #293352;
+}
+
+
+
+
+.carousel-control-prev
+{
+    margin-left: -45px;
+    
+}
+.carousel-control-next
+{
+    
+    margin-right: 330px;
+}
+.form1
+{
+    border-style: solid;
+    border-width: thin;
+    padding: 15px 0 15px 15px;
+    background-color: #004078;
+    margin-right: 500px ;
+    margin-left: 5px;
+    border-radius: 3pt;
+}
+.col-3 button
+{
+    background-color: #aebed9;
+    border-color: #19578f;
+}
+.col-3 button:hover
+{
+    background-color: #aebed9;
+}
+
+.list ul{
+    padding-top: 10px;
+    margin-right: 500px;
+    margin-left: 5px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #efefef ;
+    border-radius: 3pt;
+    color: ;
+    padding-left:;
+}
+.list
+{
+    padding-left: ;
+}
+.list li
+{
+    background-color: #dee8ef;
+    padding-left: ;
+    
+}
+.list a
+{
+    color: darkblue;
+}
+.box li
+{
+padding-left: 5px ;
+margin-right: -100px;
+padding-right: ;
+}
+.last
+{
+    background: #e9ebea;
+    display: ;
+}
+
+.panel1
+{
+    border-style: solid;
+     border-width: thin;
+      border-color: lightgrey;
+       background-color: lightgrey;
+       padding: 10px 0 10px 0;
+    }
+    
+    
+    
+    .panel
+    {
+        
+        border-style: solid;
+     border-width: thin;
+      border-color: red;
+       background-color: white;
+       padding: 8px 0 8px 0;
+       margin-top: 40px;
+       margin-bottom: -40px;
+       margin-left:35px ;
+       margin-right: 55px;
+     
+    }
+    
+    
+    
+    
+    
+    .panel-body a
+    {
+        background: darkgrey;
+        padding: 10px 5px 10px 5px;
+        margin-left: ;
+        background: ;
+        border-style: none;
+        color: white;
+        margin-top:;
+    }
+    
+    
+    
+    .panel-body p
+    {
+        background: darkgrey;
+        padding: 5px 5px 5px 5px;
+        margin-left: ;
+        background: ;
+        border-style: none;
+        color: white;
+        margin-top:;
+    }

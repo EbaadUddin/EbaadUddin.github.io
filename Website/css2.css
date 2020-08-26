@@ -1,0 +1,100 @@
+.navbar2 a:hover
+{
+    background: #0b4471;
+    border-style: solid;
+    border-color: #0b4471;
+padding: 32px 15px 30px 15px;
+text-decoration: none;
+color: white;
+}
+.navbar2 a
+{
+    margin-right: -5px;
+    position: relative;
+    color: grey;
+    text-align: center;
+    border-style:solid ;
+    border-color: #f8f9fa;
+    background: #f8f9fa;
+    border-width: thin;
+padding: 31px 15px 30px 15px;
+}
+.form
+{
+    margin: 28px 65px 0px 60px;
+    background-image:;
+    padding-top: 60px;
+}
+.form h2
+{
+    font-size: larger;
+    color: white;
+}
+.form input[type=button]
+{
+    background:#5cb85c ;
+    color: white;
+}
+.form-row
+{
+    margin: 20px 0px 30px 0;
+}
+.form button
+{
+    background: #45484b;
+    border-color: grey ;
+    color: white;
+    border-width: medium;
+}
+.form2
+{
+position: absolute;
+right: 20px;
+padding-left: ;
+margin-left: ;
+}
+.formimg
+{
+margin-top: -30px;    
+  /* The image used */
+ background-image: url('Folder/52bc250a089f3fd55080c6856c488243.jpg');
+ opacity: ;
+  /* Control the height of the image */
+  min-height: 380px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.card1
+{
+    position: absolute;
+    right: 160px;
+    top: 620px;
+}
+
+.footer1
+{
+    margin-top: 203px;
+     background: #195088;
+     padding-top: 20px;
+}
+.footer1 a
+{
+    color:white;
+    text-decoration: none;
+}
+.footer1 a:hover
+{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+

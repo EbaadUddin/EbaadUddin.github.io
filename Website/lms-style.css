@@ -1,0 +1,50 @@
+
+.topnav {
+    background-color: white;
+    margin-top: 1em;
+}
+
+.imuge{
+    position: relative;
+    margin-top: 1em;
+    height: 150px;
+    width: 145px;
+    border:5px outset;
+}
+
+.sl {
+    margin-top: -5em;   
+}
+
+#footer {
+    background-color: #2980B9;
+    color: WHITE;
+    margin-top: 10px;
+    margin-right: 0;
+  }
+
+  #footer a{
+    color: #FFF;
+  }
+
+   #footer h1 {
+    margin-left: -10px;
+  }
+  
+  
+  .life {
+    border: 1px solid #C0C0C0;
+    margin-left: 9px;
+  }
+  
+  .life p {
+    color: #7B7B7B;
+    margin-left: 10px;
+  }
+  
+  
+  .life span{
+    color: #333;
+    margin-left: 10px;
+  }
+  

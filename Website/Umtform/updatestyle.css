@@ -1,0 +1,55 @@
+
+
+input[type=text], input[type=password],input[type=text],input[type=text] 
+{
+    text-align: center;
+   
+  text-align: center;
+  padding: 15px 50px;
+  margin-top: 15px; 
+  display: list-item;
+  border-style: solid ;
+  border-width: 0.5px;
+  border-color: #D4D4D4;
+  border-radius: 3px;
+  transition: 0.8s;
+   box-shadow: 0px 0px 0.5px 0px #808080;
+}
+
+
+
+.SignIN
+{
+    text-align: center;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 3px;
+  background-color: #38A1F3;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  width: 15%;
+  opacity: 0.9;
+  display: list-item;
+  box-shadow: 0px 0px 1px 0px #808080;
+  cursor: pointer;
+}
+
+
+.form
+{    
+    
+    margin: 10px;
+    margin-left: 450px;
+    border-style: none;
+    display: inline-block;
+    padding:30px;
+    font-family: Arial ;
+    border-radius: 6px;
+    background-color: #fafafa;
+    
+}
+
+
+

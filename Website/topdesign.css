@@ -1,0 +1,168 @@
+body{
+    background-color: #111;
+}
+
+.topnav{
+    float: top;
+    list-style-type: none;
+    background-color: white;  
+    width: 100%;
+    height:19.3%;
+    border-bottom-style: outset;
+    position: fixed;
+}
+.logo{
+    margin-top: -30px;
+    margin-left: 89px;
+}
+.nav-bar{
+    font-size: 11px;
+    margin-left: 500px;
+    margin-top: 10px;
+    background-color: white;
+
+    
+}.nav-bar li a {
+    text-decoration: none;
+    color: #111;
+    font-family: arial;
+    padding: 7px;
+  
+}
+.nav-bar li {
+    text-decoration: none;
+   display: inline;
+   }
+.select {
+    margin-left: 30px;
+    background-color: #EAE8F5; 
+    font-size: 13px;   
+    font-family: arial;
+}
+
+    
+.btun{
+    margin-top: -10px;
+    margin-left:100px;
+    display: inline-block;
+    background-color: white;
+}
+.btn1,.btn3,.btn4,.btn5,.btn6,.btn7{
+    background-color: white;
+    padding: 0px 5px;
+    margin: 4px 5px ;
+    border: none;
+}
+
+.btn1 ,.btn3 ,.btn4 ,.btn5 ,.btn6 ,.btn7 {
+  color: black;
+}
+
+.btn1:hover,.btn3:hover,.btn4:hover,.btn5:hover,.btn6:hover,.btn7:hover{
+    background-color: #064473;
+    color: white;
+    padding: 6px 17px 26px;
+}
+
+#active{
+    background-color: #064473;
+    padding: 7px 17px 25px ;
+    margin-top: 4px;
+    color:white;
+}
+
+.list{
+    font-size: 11px;
+    margin-left: 580px;
+    margin-top: 10px;
+    background-color: white;
+
+    
+}.list li a {
+    text-decoration: none;
+    color: #111;
+    font-family: arial;
+    padding: 7px;
+  
+}
+.list li {
+    text-decoration: none;
+   display: inline;
+   }
+
+.vertical-menu {
+  width: 250px;
+  margin-top: 20px;
+  margin-left: 27px;
+}
+
+.vertical-menu a {
+  background-color: white;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.vertical-menu a:hover {
+  color: black;
+  background-color: white;
+  text-decoration: none;
+}
+
+.vertical-menu a.active {
+  background-color: #1B4B84;
+  color: white;
+}
+
+.grey {
+    background-color: #ECECED;
+    height: 35%;
+    width: 100%;
+}
+
+
+
+.paragraph {
+    margin-top: -280px;
+    margin-left: 310px;
+    width: 70%;
+    font-size: 14px;
+}
+
+.white {
+    background-color: #fff;
+    height: 110%;
+    width: 90%;
+    margin-top: -70px;
+    margin-left: 100px;
+}
+  #footer {
+    background-color: #2980B9;
+    color: WHITE;
+    margin-top: 10p
+    margin-right: 0;
+  }
+
+  #footer a{
+    color: #FFF;
+  }
+
+   #footer h1 {
+    margin-left: -10px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+

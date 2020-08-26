@@ -1,0 +1,106 @@
+body
+{
+    background: white;
+}
+.navbar-fixed-top
+{
+    background: black; position:; margin-bottom: -12px; padding-top: 5px;
+}
+.nav
+{
+    color: white; font-size: small;
+}
+.navbar
+{
+padding-bottom: 10px  ;  background: #ffffff; position:;    
+}
+.navbar img
+{
+    padding-left: 35px;
+}
+.navigation li
+{
+    padding-left: 12px;
+    margin-bottom:10px;
+}
+
+.navigation2
+{
+    float: ; position: absolute; right: 50px; top: 10px;
+}
+
+.navigation2 ul
+{
+    font-size: small; color: #8c8c8c;
+}
+
+
+.form-inline input
+{
+    border-width: thin; border-color: grey; border-radius: 3pt; margin-right: 5px;
+}
+.form-inline button
+{
+    background: red; color: grey;
+}
+
+
+.navigation
+{
+    position: absolute; bottom: 0px; right:40px;
+}
+
+
+
+.redimg
+{
+    position: absolute; bottom: -700px; right: 534px;
+    width:28%; 
+    height:45%;
+}
+
+.container
+{
+    color: white;
+}
+
+
+.tab a
+{
+    margin-left: -15px;
+    border-style: hidden;
+    background:none;
+    padding: 15px 96px 17px 10px;
+    border: white;
+    color: black ;
+    background-color: white;
+    text-decoration: none;
+}
+.tab a:hover
+{
+    text-decoration: none;
+    color: black;
+}
+.tab
+{
+    margin-top: -50px;
+}
+.footer1
+{
+    margin-top: 1215px;
+     background: #2b7ab5;
+     padding-top: 20px;
+}
+.footer1 a
+{
+    color:white;
+    text-decoration: none;
+}
+.footer1 a:hover
+{
+    text-decoration: none;
+    color: white;
+}
+
+
+

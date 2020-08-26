@@ -1,0 +1,246 @@
+.navi {
+    position: fixed;
+    float: top;
+    list-style-type: none;
+    background-color: white;
+    padding: 4px 20px 1px;
+    border-radius: 30px;
+    margin-top: 15px;
+    margin-left: 70px;
+}
+
+.navi li {
+    margin-top: 900px;
+    top:  5px;
+    display: inline;
+    padding: 23px;
+    margin-right: 4px
+}
+.navi ul{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.navi li a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.navi li a:hover{
+    transition: ease;
+    color: darkblue;
+}
+.emag{
+    height: 50px;
+    width: 130px;
+    margin-top: -10px;
+    margin-left :-70px;
+    margin-right: 50px;
+}
+
+::selection {
+  color: black;
+  background: #EAEDF5;
+}
+
+.btn-btn-primary {
+    padding: 15px 20px 3px;
+    background-color: darkblue ;
+    text-decoration: none;
+    margin-top: 5px;
+    border:none;
+    text-align: start;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+
+.vmh{ 
+    height: 110px;
+    width: 110px;
+}
+table {
+    margin-top: 20px;
+    margin-left: 50px;
+  width: 95%;
+}
+
+td, th {
+ 
+  text-align: center;
+  font-weight: bold;
+  padding: 2px;
+}
+
+.bton {
+    margin-top: -150px;
+    margin-left: 90px;
+}
+
+.bton button {
+    padding: 10px 30px 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-weight: bold;
+}
+.bton button a{
+    color: white;
+    text-decoration: none;
+}
+.capt3{
+    margin-top: 105px;
+}
+.RS{
+    background-color: F1F1F1;
+    font-weight: bold;
+    
+}
+.tb td{
+    background-color: white;
+    border-bottom-right-radius: 50px;
+   padding: 20px 40px 50px;
+    
+}
+
+.wrapper{
+      display: grid;
+  grid-column-gap: 60px;
+  grid-template-columns: auto auto auto auto;
+  padding: 10px 30px 30px;
+  width: 1000px;
+  margin-right: 150px ;
+}
+.wrap{
+    border-bottom-right-radius: 50px;
+    background-color: white;
+}
+.racb{
+    margin-top: -410px;
+    margin-left: 250px ;
+    font-weight: bold;
+    color: 595959;
+}
+.lmtw{
+    margin-left: -600px ;
+    text-align: center;
+    font-weight: bolder;
+    font-family: arial;
+}
+.nam{
+    padding: 15px 200px ;
+    border-radius: 30px;
+    background-color: aliceblue;
+    margin-left: 80px;
+    border-style: outset ;
+    text-align: start;
+    
+}
+.tel{
+       padding: 15px 55px ;
+    border-radius: 30px;
+    background-color: aliceblue;
+    margin-left: 80px;
+    border-style: outset ;
+    
+}
+.ema{
+       padding: 15px 55px ;
+    border-radius: 30px;
+    background-color: aliceblue;
+    
+    border-style: outset ;
+}
+.but{
+    padding: 17px 30px 3px;
+    background-color: 28488D;
+    text-decoration: none;
+    margin-top: 30px;
+    border:none;
+    text-align: center;
+    border-radius: 40px;
+    color: white;
+    margin-left: 300px;
+}
+.joe{
+    font-size: 19px;
+    color: #595959;
+    line-height: 26px;
+    text-align: center;
+    margin-top: 90px;
+}
+.oe{
+    font-size: 37px;
+    color: #242424;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: -1px;
+    font-weight: bolder;
+}
+.onethree{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: 333333;
+    text-align: end;
+    font-size: 30px;
+}
+
+.twofour{
+     font-family: sans-serif;
+    font-weight: bold;
+    color: 333333;
+    text-align: start;
+    font-size: 30px;
+}
+.circlepic13{
+    border-radius: 200px;
+    border: 3px solid darkblue;
+    margin-right: 80px;
+
+}
+.circlepic24{
+    border-radius: 200px;
+    border: 3px solid darkblue;
+    margin-left: 60px;
+
+}
+.head{
+    font-size: 22px;
+    color: #0a0a0a;
+    font-weight: bolder;
+    
+}
+
+.chair{
+    margin-top: -23px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.content {
+    margin-top: -330px;
+    font-size: 22px;
+    color: white;
+    font-style: italic; 
+    width: 100%; 
+}
+
+.AR {
+    border-radius: 50px;
+    margin-right: 380px;
+    margin-top: 20px;
+    border: none;
+}
+
+.test {
+    font-size: 23px;
+    color: white;
+    margin-top: -54px;
+    margin-right: 10px;
+    font-weight: bolder;
+    width: 100%;
+}
